@@ -1,0 +1,24 @@
+.job-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .job-card div {
+    margin-bottom: 5px;
+  }
+  
+  .job-card .salary {
+    margin-top: 5px;
+  }
+  
+  .job-card .salary div {
+    margin-left: 10px;
+  }
+  
+  .job-card .salary .title {
+    font-weight: bold;
+  }
+  
+  
